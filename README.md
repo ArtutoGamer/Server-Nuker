@@ -5,14 +5,16 @@ Do you fucking hate the server owner?
 
 Do you want to watch ~~the world~~ a Discord server burn?
 
-Well I got the perfect program for you! Server Nuker!
+Are you a sad kid without life wanting yo waste someone's time?
+
+Well I got the perfect program for you! Server Nuker! ~~also you are idiot~~
 
 Server Nuker is a Node.js program that will destroy any Discord server that you have Admin/Mod/Staff in.
 
 # Disclaimer
 
 
-This program is **very powerful.** It took just a second or 2 to **ban everyone in the server, and delete all roles/channels.**. I am not responsible for any damage you do with this tool, or any punishments you get from the server owners, **or even Discord Staff (They could ban your account for API abuse)**. Please use this tool on an alt account.
+This program is **very powerful.** It took just a second or 2 to **ban everyone in the server, and delete all roles/channels.**. I am not responsible for any damage you do with this tool, or any punishments you get from the server owners, **or even Discord Staff (They could ban your account for API abuse)**. Please use this tool on an alt account. Me, Kyle2000, I make responsable myself of any consecuence this bot could cause of every user running it.
 
 
 # Install
